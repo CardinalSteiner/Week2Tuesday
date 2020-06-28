@@ -16,6 +16,7 @@ public class Week2Tuesday {
      */
     public static void main(String[] args) {
         System.out.println("Using Github");
+        System.out.println("Commiting in the repository");
     }
     
 }
